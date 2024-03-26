@@ -9,6 +9,8 @@
 
 - 📄 Resume: [https://flowcv.com/resume/ulgl5i9sf2](https://flowcv.com/resume/ulgl5i9sf2)
 
+- 📄 LinkedIn: www.linkedin.com/in/fahad-mahmood-511918277
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="www.linkedin.com/in/fahad-mahmood-511918277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/fahad-mahmood-511918277" height="30" width="40" /></a>
