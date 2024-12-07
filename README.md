@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fahad Mahmood</h1>
-<h3 align="center">A Passionate App developer and UI/UX Designer from Pakistan</h3>
+<h3 align="center">A Passionate Backend Developer, App developer and UI/UX Designer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadmahmood99&label=Profile%20views&color=0e75b6&style=flat" alt="fahadmahmood99" /> </p>
 
